@@ -58,24 +58,34 @@ python3 n_queens_solver.py
 ```
 ## 🧪 Example Output (N = 4)
 
-Welcome to the N-Queens Solver!
-Enter the number of queens (N): 4
+#!/bin/bash
 
-Solving the 4-Queens problem...
+# This script displays the example output from the N-Queens Solver.
 
-BFS found 2 solutions in 1.85 ms
-DFS found 2 solutions in 0.42 ms
+Welcome to the N-Queens Solver! 
 
-Here's one of the possible solutions:
+ Enter the number of queens (N): 4 
+ Solving the 4-Queens problem... 
+ BFS found 2 solutions in 1.85 ms 
 
-. Q . .. . . QQ . . .. . Q .
+ DFS found 2 solutions in 0.42 ms 
+ Here's one of the possible solutions: 
+ . Q . . 
 
-Comparison Summary:
-BFS Time: 1.85 ms
-DFS Time: 0.42 ms
+ . . . Q 
 
-Thanks for trying the N-Queens Solver!
-Made with ❤️ by Ziyad Azzaz 🧠 (AI Course Project)
+ Q . . . 
+
+ . . Q . 
+ Comparison Summary: 
+
+ BFS Time: 1.85 ms 
+
+ DFS Time: 0.42 ms 
+ Thanks for trying the N-Queens Solver! 
+
+ Made with ❤️ by Ziyad Azzaz 🧠 (AI Course Project)
+
 
 ---
 
@@ -107,5 +117,3 @@ This project was built to demonstrate:
 ## 🪪 License
 
 This project is open-source under the **MIT License**.  
-✅ Free to use, modify, and share — especially for learning purposes!
-
