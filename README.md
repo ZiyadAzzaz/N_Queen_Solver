@@ -94,6 +94,7 @@ Thanks for using the N-Queens Solver!
 ────────────────────────────────────
 Made with ❤️ by Ziyad Azzaz 🧠 
 (AI Course Project)
+```
 
 
 ---
