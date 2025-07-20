@@ -37,6 +37,9 @@ This project:
 | `n_queens_solver.py` | Main Python script                     |
 | `README.md`          | Project documentation (this file)      |
 
+
+👉 **[View the Full Code Here](https://github.com/ZiyadAzzaz/N_Queen_Solver/blob/main/n_queens_solver.py)**
+
 ---
 
 ## ▶️ How to Run
@@ -65,10 +68,7 @@ DFS found 2 solutions in 0.42 ms
 
 Here's one of the possible solutions:
 
-. Q . .
-. . . Q
-Q . . .
-. . Q .
+. Q . .. . . QQ . . .. . Q .
 
 Comparison Summary:
 BFS Time: 1.85 ms
