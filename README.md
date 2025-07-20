@@ -47,3 +47,65 @@ This project:
 ```bash
 git clone https://github.com/ZiyadAzzaz/n-queens-solver.git
 cd n-queens-solver
+```
+
+3. Run the program:
+```bash
+python3 n_queens_solver.py
+```
+## 🧪 Example Output (N = 4)
+
+Welcome to the N-Queens Solver!
+Enter the number of queens (N): 4
+
+Solving the 4-Queens problem...
+
+BFS found 2 solutions in 1.85 ms
+DFS found 2 solutions in 0.42 ms
+
+Here's one of the possible solutions:
+
+. Q . .
+. . . Q
+Q . . .
+. . Q .
+
+Comparison Summary:
+BFS Time: 1.85 ms
+DFS Time: 0.42 ms
+
+Thanks for trying the N-Queens Solver!
+Made with ❤️ by Ziyad Azzaz 🧠 (AI Course Project)
+
+---
+
+## 🛠️ Tech Stack
+
+- **Language:** Python  
+- **Modules:** `collections`, `time`
+
+---
+
+## 💡 Educational Purpose
+
+This project was built to demonstrate:
+
+- Basic constraint satisfaction  
+- AI search strategies (DFS vs BFS)  
+- Recursive and iterative problem solving  
+- Performance trade-offs between search methods
+
+---
+
+## 👨‍💻 Author
+
+**Ziyad Azzaz**  
+🔗 GitHub: [ZiyadAzzaz](https://github.com/ZiyadAzzaz)
+
+---
+
+## 🪪 License
+
+This project is open-source under the **MIT License**.  
+✅ Free to use, modify, and share — especially for learning purposes!
+
