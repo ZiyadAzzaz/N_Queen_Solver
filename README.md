@@ -58,33 +58,42 @@ python3 n_queens_solver.py
 ```
 ## 🧪 Example Output (N = 4)
 
-#!/bin/bash
+```text
+Welcome to the N-Queens Solver!
+═══════════════════════════════
 
-# This script displays the example output from the N-Queens Solver.
+Enter the number of queens (N): 4
 
-Welcome to the N-Queens Solver! 
+Solving the 4-Queens problem...
+──────────────────────────────
 
- Enter the number of queens (N): 4 
- Solving the 4-Queens problem... 
- BFS found 2 solutions in 1.85 ms 
+Search Results:
+• BFS found 2 solutions in 1.85 ms
+• DFS found 2 solutions in 0.42 ms
 
- DFS found 2 solutions in 0.42 ms 
- Here's one of the possible solutions: 
- . Q . . 
+Sample Solution:
+┌───┬───┬───┬───┐
+│   │ Q │   │   │
+├───┼───┼───┼───┤
+│   │   │   │ Q │
+├───┼───┼───┼───┤
+│ Q │   │   │   │
+├───┼───┼───┼───┤
+│   │   │ Q │   │
+└───┴───┴───┴───┘
 
- . . . Q 
+Performance Comparison:
+══════════════════════
+│ Algorithm │ Time  │
+══════════════════════
+│ BFS       │ 1.85ms│
+│ DFS       │ 0.42ms│
+══════════════════════
 
- Q . . . 
-
- . . Q . 
- Comparison Summary: 
-
- BFS Time: 1.85 ms 
-
- DFS Time: 0.42 ms 
- Thanks for trying the N-Queens Solver! 
-
- Made with ❤️ by Ziyad Azzaz 🧠 (AI Course Project)
+Thanks for using the N-Queens Solver!
+────────────────────────────────────
+Made with ❤️ by Ziyad Azzaz 🧠 
+(AI Course Project)
 
 
 ---
